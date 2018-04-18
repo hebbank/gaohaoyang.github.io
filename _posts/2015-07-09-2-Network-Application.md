@@ -1,8 +1,8 @@
 ---
-title: 互联网
+title:网络应用
 layout: post
 categories: '读书笔记'
-tags: ''
+
 author: hebbank
 ---
 
@@ -22,7 +22,8 @@ author: hebbank
 - Slack  
 作为划时代的企业沟通协作应用，支持即时通讯，分享文件、新闻等，邮件。可引入google drive文件。谷歌聊天也加入战局。  
 - steemit  
-区块链博客,拥有不同编辑器 免翻墙 不可更改  注册可用fb账号或reddit
+区块链博客,拥有不同编辑器 免翻墙 不可更改  注册可用fb账号或reddit  
+  - 另一个基于bch交易备注的微博  
 - yoyow  
 山寨版区块链博客，手机适配还没做好。
 - reddit
