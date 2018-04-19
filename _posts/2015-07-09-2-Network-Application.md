@@ -1,5 +1,6 @@
 ---
-title:网络应用
+layout: post
+title:   "网络应用"
 layout: post
 categories: '读书笔记'
 
