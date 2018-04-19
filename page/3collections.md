@@ -13,7 +13,7 @@ type: page
 
 * [锐行轩的大初二👻（副本）](https://www.meipian.cn/ou6iild?from=timeline&isappinstalled=0)
 
-   儿子拓展训练  
+   儿子平山拓展训练  
 
 ## 工具
 
