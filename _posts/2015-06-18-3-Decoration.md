@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "紫润装修"
-date:   2015-06-18 00:06:05
+date:   
 categories: 岁月静好
 tags:
 ---
