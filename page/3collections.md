@@ -10,17 +10,12 @@ type: page
 {:toc}
 
 
+
 ## 照片
 
 * [锐行轩的大初二👻（副本）](https://www.meipian.cn/ou6iild?from=timeline&isappinstalled=0)
 
-   儿子平山拓展训练  
-
-## 工具
-
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
-
-    生成 box-shadow 的工具。
+    儿子平山拓展训练。
 
 * [gradient-generator](http://www.cssmatic.com/gradient-generator)
 
