@@ -17,9 +17,9 @@ type: page
 
     儿子平山拓展训练。
 
-* [gradient-generator](http://www.cssmatic.com/gradient-generator)
+* [万万没想到！石家庄不止有新华书店还有那么多高大上的书店](https://www.toutiao.com/i6532711416145641992/)
 
-    渐变生成器。
+    本地公众号恰好拍到妹夫。
 
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
