@@ -1,11 +1,11 @@
 ---
 layout: post
-title:   "网络应用"
-layout: post
-categories: '读书笔记'
-
-author: hebbank
+title:  "网络应用"
+date:   2015-07-09 14:06:05
+categories: 读书笔记
+tags:
 ---
+
 
 * content
 {:toc}
