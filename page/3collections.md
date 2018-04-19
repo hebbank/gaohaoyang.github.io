@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-##照片
+## 照片
 
 * [锐行轩的大初二👻（副本）](https://www.meipian.cn/ou6iild?from=timeline&isappinstalled=0)
 
