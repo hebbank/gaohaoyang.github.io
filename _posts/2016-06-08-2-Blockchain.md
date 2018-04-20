@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "区块链"
-categories: notes after some reading
+categories: notes
 
 author: hebbank
 ---
