@@ -1,7 +1,7 @@
 ---
 title: 《摔跤吧，爸爸》-观后感
 layout: post
-categories: 岁月静好
+categories: dairy
 tags: ''
 author: hebbank
 ---

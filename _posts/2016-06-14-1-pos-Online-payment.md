@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "线上支付"
-categories: 支付相关
+categories: work
 tags:  pos
 author: hebbank
 ---

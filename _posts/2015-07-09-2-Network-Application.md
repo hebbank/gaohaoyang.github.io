@@ -2,7 +2,7 @@
 layout: post
 title:  "网络应用"
 date:   2015-07-09 14:06:05
-categories: 读书笔记
+categories: notes after some reading
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "pos 常见问题"
-categories: 支付相关
+categories: work
 tags:  pos
 author: hebbank
 ---

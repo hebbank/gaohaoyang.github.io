@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "电子银行"
-categories: 支付相关
+categories: work
 tags:  pos
 author: hebbank
 ---
