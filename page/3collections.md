@@ -27,7 +27,7 @@ type: page
 ## 赚点小钱  
 
 ![分享任务海报
-叫上好友一起领奖励啦e](https://o3pvuu23u.qnssl.com/candy/images/candy-poster.png =205*316)
+叫上好友一起领奖励啦e](https://o3pvuu23u.qnssl.com/candy/images/candy-poster.png)
 
 
 ## Comments
