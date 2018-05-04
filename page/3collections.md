@@ -29,6 +29,17 @@ type: page
 ![分享任务海报
 叫上好友一起领奖励啦](https://o3pvuu23u.qnssl.com/candy/images/candy-poster.png)
 
+<img src="https://o3pvuu23u.qnssl.com/candy/images/candy-poster.png" width = "300" height = "200" alt="分享任务海报
+叫上好友一起领奖励啦" align=center />
+
+![分享任务海报
+叫上好友一起领奖励啦](https://o3pvuu23u.qnssl.com/candy/images/candy-poster.png =100x20)  
+## 书签  
+
+**Jekyll**  
+ruby 支持的程序 运行环境比hexo复杂   
+[将word转换为markdown](http://www.writage.com/)
+
 
 ## Comments
 
