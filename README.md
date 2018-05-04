@@ -1,18 +1,18 @@
-# About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
+＃关于这个酷简洁的Jekyll博客主题🤘🤘🤘
 
-[![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)
-[![GitHub release](https://img.shields.io/github/release/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/releases)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/master/LICENSE)
+[！[GitHub stars]（https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg ）]（https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers ）[！[GitHub forks]（https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg ）]（https://github.com/Gaohaoyang/gaohaoyang.github.io/ 网络）[！[GitHub问题]（https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg ）]（https://github.com/Gaohaoyang/gaohaoyang.github.io /问题）[！[GitHub发布]（https://img.shields.io/github/release/Gaohaoyang/gaohaoyang.github.io.svg ）]（
+
+
+https://github.com/Gaohaoyang/gaohaoyang.github.io/releases）[ [GitHub的许可证（！https://img.shields.io/badge/license-MIT-blue.svg）（] HTTPS：/ /raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/master/LICENSE）
+
 
 **[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README-zh-cn.md)**
 
-With the escalation of jekyll version, but I also want to reconstruct my older blog theme, so I did reconstruction and added some features recently. My new blog theme will still be stored in this repository. I will also use this theme in the future. Now I have done basically, then I will focus on issues that users opend to make theme better.
+随着jekyll版本的升级，但我也想重新构建我的旧博客主题，所以我最近做了重建并添加了一些功能。我的新博客主题仍将存储在此存储库中。我将来也会使用这个主题。现在我已经基本完成了，然后我将重点讨论用户为了更好地制作主题而开展的问题。
 
-**My Blog Url: [http://gaohaoyang.github.io/](http://gaohaoyang.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
+**我的博客网址：[ http://gaohaoyang.github.io/ ]（http://gaohaoyang.github.io/）**。如果你喜欢这个主题，你可以给我一颗明星来鼓励我。欢迎大家使用它。
 
-## Content
+## 内容
 
 * [Preview](#preview)
 * [Page Details](#page-details)
@@ -393,4 +393,7 @@ About my old blog theme, I won't maintain any more. And I put the code at  [Gaoh
 
 ## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+[ MIT许可证 ]（https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md）
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcxMDM1OTU0M119
+-->
