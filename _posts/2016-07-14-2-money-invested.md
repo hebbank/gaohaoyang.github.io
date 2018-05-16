@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "投资"
-date:   2015-06-14 14:06:05
+
 categories: notes
 tags:
 ---
