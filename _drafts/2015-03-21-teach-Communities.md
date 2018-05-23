@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "比特币社团"
+title:  "比特币社团白皮书"
 date:   2015-03-21 15:14:54
 categories: Bootstrap
 tags: BootStrap HTML CSS Zhihu

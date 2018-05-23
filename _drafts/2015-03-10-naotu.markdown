@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "脑图"
+title:  "markdown版本脑图"
 date:   
 categories: jekyll
 tags: jekyll

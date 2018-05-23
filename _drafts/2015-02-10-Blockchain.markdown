@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blockchain"
+title:  "区块链"
 date:   2015-02-10 15:14:54
 categories: jekyll
 tags: jekyll
@@ -10,12 +10,19 @@ mathjax: true
 
 
 **学习**
+分类：  
+生态 产业链 媒体 场景  
+无链场景  
+金融贯穿 生产交易物流法律合同休闲  
+
 根据母体文章改编。 知识结构新边界  术语累积  
 idea和现有产品有重叠，编辑文章可照抄  
 老师视频，文章打印  
 学习底层技术没储备，学习应用不可能对所有场景深入研究。  
 
 **账户与工具**  
+blackchain钱包内含交易所就好了  
+
 双币信用卡 paypay区域设置 收钱码限国区     
 下imtoken btc钱包  钱包竞争  库神3000元
 
