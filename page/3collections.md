@@ -12,6 +12,7 @@ type: page
 
 
 ## 照片
+* [我们的三年❤](https://www.meipian.cn/1fejhp1v?share_depth=2)  
 
 
 * [河北银行石家庄分行基金训练营阶段性总结（新石南路支行与友谊南大街支行）](https://www.meipian.cn/19lxpl1g?share_depth=2)  
@@ -26,12 +27,6 @@ type: page
 [微信收藏至 ever note ](https://www.evernote.com/pub/oicq2005/wechat)
 
 
-## 赚点小钱  
-
-
-| 糖果   |          |         |  
-|:-------:|:--------:|:------:|  
-| ![分享任务海报叫上好友一起领奖励啦](https://o3pvuu23u.qnssl.com/candy/images/candy-poster.png)|   
 
 ## Comments
 
