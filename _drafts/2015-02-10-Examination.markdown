@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "毕业"
+title:  "毕业感言"
 date:   2015-02-10 15:14:54
 categories: jekyll
 tags: time
