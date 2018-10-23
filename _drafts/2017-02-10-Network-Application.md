@@ -8,8 +8,6 @@ tags:  threeJS webGL
 * content
 {:toc}  
 
-
----
 不翻墙的共享网盘  
 
 **微信**  
@@ -17,9 +15,13 @@ tags:  threeJS webGL
 **markdown**  
 
 
+**atom**
+中英文对照目录  
+
 **github pages**   
 文件名无日期--不显示。希望有站内搜索。
-
+hugo 发布
+hugo
 **rss阅读器**
    - inreader通过油猴可以关闭右侧广告站位  网页升级就没用了。
 ios版本与pc版越来越像。   
