@@ -94,20 +94,29 @@ usbkey版网银可申请白名单，单笔500万，日累计3000万。
 
 **扫描二维码关注微信银行:**   
 
-![Image Title](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFS8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAycUFCdzlUYTY4M1UxMDAwMGcwMzgAAgRfc2laAwQAAAAA)  
+![1373](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFS8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAycUFCdzlUYTY4M1UxMDAwMGcwMzgAAgRfc2laAwQAAAAA)  
 
 
 
-**二维码**    
+**二维码付款**    
 使用河北银行手机银行app付款暂时只支持被扫模式。    
 
 **多媒体机**   
 设置日期可打1年前明细，（过于靠前需要联系开卡行）  
 机器可显示动帐事项，打印纸不显示。 （如：pos消费，理财购买等）
 
+**生活缴费**  
+民生服务企业都有自己官方公众号，可在公众号缴费。  
+
+供水：  
+最新水费通知单左上角有用户编号。    
+已停水用户缴了欠费也需要抄表员手动开闸门。  
+国电 华电   
+
 **返利积分与优惠活动（薅羊毛）**   
 河北银行储蓄积分：可在北国超市抵现金  
-手机查询积分：在右上角个人图标-客户设置管理。 网银查询积分：个人账户。   
+手机查询积分：在右上角个人图标-客户设置管理。  
+网银查询积分：个人账户。   
 多媒体查询积分：按提示操作。  
 
 河北银行商户优惠券：  
