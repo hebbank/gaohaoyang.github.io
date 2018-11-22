@@ -3,7 +3,7 @@ layout: post
 title:  "投资"
 date:   2016-06-09 14:06:05
 categories: notes
-tags:
+tags: 存款 基金 理财 股票 
 author: hebbank
 ---
 
