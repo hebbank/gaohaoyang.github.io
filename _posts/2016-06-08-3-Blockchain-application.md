@@ -3,7 +3,7 @@ layout: post
 title:  "区块链应用"
 date:   2016-06-08 14:06:05
 categories: notes
-tags:
+tags: 区块链
 ---
 
 * content
