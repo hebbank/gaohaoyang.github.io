@@ -3,7 +3,7 @@ layout: post
 title:  "聚合支付"
 date:   2016-06-11 19:06:05
 categories: work
-tags: pos
+tags: pos 聚合支付 
 author: hebbank
 ---
 
