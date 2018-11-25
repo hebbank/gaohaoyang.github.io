@@ -3,7 +3,7 @@ layout: post
 title:  "紫润装修"
 date:   2015-06-15 14:06:05
 categories: notes
-tags:
+tags: 装修  
 ---
 
 * content
@@ -104,6 +104,3 @@ __橱柜__
 
 __金属件__  
 厕所可加金属管挂浴帘，纸盒，毛巾架，镜子 窗帘架子
-
----
-**_drafts**
