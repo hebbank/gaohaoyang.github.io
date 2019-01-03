@@ -12,7 +12,8 @@ author: hebbank
 {:toc}
 
 - 微信  
-  - 收藏:用ever note或OneNote 代替。可以生成共享文件夹链接。   
+  - 收藏:用ever note或OneNote 代替。  
+  可以生成共享文件夹链接。   
   - 推荐小程序：
     - 腾讯文档：  
   手机新建需要从doc全选-复制内容到新建文档。  
