@@ -26,4 +26,7 @@ mathjax: true
 
 <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="50%" height="50%">  
 
-![cpu图解](https://i.loli.net/2018/11/25/5bfa560ab3129.jpg)
+![cpu图解](https://i.loli.net/2018/11/25/5bfa560ab3129.jpg)  
+
+![安卓下载](https://i.loli.net/2019/06/16/5d05c3554d14c99549.jpg)  
+![安卓下载](https://i.loli.net/2019/06/16/5d05c3554d14c99549.jpg)
