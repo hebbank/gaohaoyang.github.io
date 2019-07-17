@@ -71,4 +71,4 @@ author: hebbank
 [何解决 Android 手机因推送权限问题收不到消息提醒？](https://www.rongcloud.cn/docs/android_message_notification.html#question)
 - 登陆提示dns解析失败：请自行安装代理软件。  
 - 存折不可以作为入账账号。  
--
+- pay客户端扫付款人二维码功能没有开放。  
